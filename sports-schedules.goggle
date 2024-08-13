@@ -4,7 +4,7 @@
 ! author: Jen-Eric Domingo
 
 $discard
-$boost,site=espn.com
+$boost=3,site=espn.com
 $boost,site=cbssports.com
 $boost,site=bleacherreport.com
 $boost,site=sports.yahoo.com
