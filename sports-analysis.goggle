@@ -4,9 +4,10 @@
 ! author: Jen-Eric Domingo
 
 $discard
+$boost=3,site=espn.com
+$boost=2,site=winnersandwhiners.com
+$boost=2,site=ftw.usatoday.com
 $boost,site=foxsports.com
-$boost,site=espn.com
-$boost,site=winnersandwhiners.com
 $boost,site=sportsbookwire.usatoday.com
 $boost,site=dimers.com
 $boost,site=triblive.com
@@ -15,7 +16,6 @@ $boost,site=statsalt.com
 $boost,site=pickdawgz.com
 $boost,site=si.com
 $boost,site=bleacherreport.com
-$boost,site=ftw.usatoday.com
 $boost,site=freepicks.picksandparlays.net
 $boost,site=realgm.com
 $boost,site=actionnetwork.com
