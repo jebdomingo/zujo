@@ -1,0 +1,56 @@
+! name: Sports Schedules
+! description: Limit to sports scheduling sites
+! public: true
+! author: Jen-Eric Domingo
+
+$discard
+$boost,site=espn.com
+$boost,site=cbssports.com
+$boost,site=bleacherreport.com
+$boost,site=sports.yahoo.com
+$boost,site=foxsports.com
+$boost,site=sportsdata.usatoday.com
+$boost,site=nytimes.com
+$boost,site=covers.com
+$boost,site=fantasypros.com
+$boost,site=sportsnet.ca
+$boost,site=sportsnaut.com
+$boost,site=365scores.co
+$boost,site=directv.com
+$boost,site=sportsline.com
+$boost,site=oddsshark.com
+$boost,site=nbcsports.com
+$boost,site=sofascore.com
+$boost,site=dimers.com
+$boost,site=sports-reference.com
+$boost,site=thescore.com
+$boost,site=livesportsontv.com
+$boost,site=lines.com
+$boost,site=si.com
+$boost,site=rotowire.com
+$boost,site=actionnetwork.com
+$boost,site=eurosport.com
+$boost,site=bbc.com
+$boost,site=dailyfaceoff.com
+$boost,site=nesn.com
+$boost,site=msn.com
+$boost,site=goal.com
+$boost,site=sportsbettingdime.com
+$boost,site=oddsportal.com
+$boost,site=skysports.com
+$boost,site=fansided.com
+$boost,site=sbnation.com
+$boost,site=oddschecker.com
+$boost,site=pinnacle.com
+$boost,site=coral.co.uk
+$boost,site=sports.ladbrokes.com
+$boost,site=sports.everygame.eu
+$boost,site=sportinglife.com
+$boost,site=theathletic.com
+$boost,site=deadspin.com
+$boost,site=mybookie.ag
+$boost,site=sports.betmgm.com
+$boost,site=siriusxm.com
+$boost,site=tsn.ca
+$boost,site=mbl.com
+$boost,site=nfl.com
